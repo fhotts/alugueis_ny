@@ -13,10 +13,10 @@ O arquivo "2019_citywide_sale.xlsx" é utilizado posteriormente no notebook, par
 Siga as instruções dentro do notebook para executar as análises estatísticas e EDA.
 
 ## Relatórios
-Todas as análises estão incluídas dentro do notebook Jupyter fornecido neste repositório.
+Todas as análises estão incluídas dentro do notebook Jupyter (Aluguéis_em_Nova_York.ipynb) fornecido neste repositório.
 
 ## Códigos de Modelagem
-Todos os códigos de modelagem estão incluídos no notebook Jupyter fornecido neste repositório.
+Todos os códigos de modelagem estão incluídos no notebook Jupyter (Aluguéis_em_Nova_York.ipynb) fornecido neste repositório.
 
 ## Arquivo .pkl
 O modelo treinado está disponível como um arquivo .pkl neste repositório. Você pode carregá-lo usando o seguinte código Python:
