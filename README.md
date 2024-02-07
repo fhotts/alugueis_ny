@@ -8,6 +8,8 @@ Instale as dependências necessárias executando pip install -r requirements.txt
 
 ## Execução do Projeto
 Abra o notebook Jupyter fornecido neste repositório no programa de sua preferência (Google Colab ou Jupyter Notebook).
+O conjunto de dados utilizado é o "alugueis_ny.csv" (e o dicionário de dados do mesmo pode ser encontrado em "dicionario_de_dados.txt").
+O arquivo "2019_citywide_sale.xlsx" é utilizado posteriormente no notebook, para uma análise específica.
 Siga as instruções dentro do notebook para executar as análises estatísticas e EDA.
 
 ## Relatórios
